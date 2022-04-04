@@ -1,0 +1,4 @@
+name: ChatPlugin
+version: '${project.version}'
+main: com.punzia.chatplugin.ChatPlugin
+api-version: 1.18
